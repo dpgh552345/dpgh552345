@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying at UTH
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently learning C++, PYthon
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100079882538309)
 
